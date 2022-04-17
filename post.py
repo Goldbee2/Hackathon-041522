@@ -37,4 +37,4 @@ async def on_ready():
     await cl.close()
 
     
-cl.run('OTY1MTIyMjU0MDk2NzExNzYw.YlumJA.Lo2MSLPuFB250ucmGCgG3xdzy80')
+cl.run(TOKEN)
